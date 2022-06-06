@@ -8,7 +8,7 @@ Combine and convert all image files in a folder or directory to PDF.
 ### How to use
 Run python file in terminal
 
-`python dir2pdf.py 'C:/MyImagesDir' 'C:/MyOutputDir' jpg`
+`python f2pdf.py 'C:/MyImagesDir' 'C:/MyOutputDir' jpg`
 
 Where the parameters are in this order:
 1. directory - Where your image files are in
